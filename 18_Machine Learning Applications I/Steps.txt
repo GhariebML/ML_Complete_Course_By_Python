@@ -1,0 +1,16 @@
+Reading
+data reshaping
+Cleaning : nulls, invalid values
+Outliers
+FE
+FS
+Visualizations
+Models
+Evaluation
+
+
+
+
+it doesn`t matter what you know, it matters what you are able to know when you need it
+
+ 
